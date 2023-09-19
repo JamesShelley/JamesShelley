@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, .NET, SaaS, Open Source, DevOps.
 - 🌱 I’m currently learning Blazor
 - 💻 I’m looking to collaborate on Open Source .NET projects.
-- 📫 How to reach me jambodev@proton.me
+- 📫 How to reach me james@jshelley.uk
 
 <!---
 JamesShelley/JamesShelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
